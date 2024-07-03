@@ -1,1 +1,1 @@
-{"android:sdk_installation": ["31", "21", "19b", "/home/codespace/.buildozer/android/platform/android-sdk", "/home/codespace/.buildozer/android/platform/android-ndk-r19b"], "cache.build_id": "6"}
+{"android:sdk_installation": ["31", "21", "25c", "/home/codespace/.buildozer/android/platform/android-sdk", "/home/codespace/.buildozer/android/platform/android-ndk-r25c"], "cache.build_id": "11"}

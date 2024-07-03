@@ -45,7 +45,7 @@ android.api = 31
 android.minapi = 21
 
 # (str) Android NDK version
-android.ndk = 25b
+android.ndk = 25c
 
 [buildozer]
 # (int) Log level (0, 1, 2, 3)
@@ -53,4 +53,5 @@ log_level = 2
 
 # (bool) Avoid compiling through root
 warn_on_root = 1
+
 
